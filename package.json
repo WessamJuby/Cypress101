@@ -1,0 +1,27 @@
+{
+  "name": "cypress101",
+  "version": "1.0.0",
+  "description": "Cypress 101",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WessamJuby/Cypress101.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WessamJuby/Cypress101/issues"
+  },
+  "homepage": "https://github.com/WessamJuby/Cypress101#readme",
+  "dependencies": {
+    "@4tw/cypress-drag-drop": "^2.1.0",
+    "@cypress-audit/lighthouse": "^1.3.0",
+    "cypress": "^9.6.1",
+    "cypress-axe": "^0.14.0",
+    "cypress-lighthouse": "^0.1.0",
+    "cypress-xpath": "^1.6.2"
+  }
+}
